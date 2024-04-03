@@ -1,0 +1,2 @@
+pip install labelimg
+cmd中输入labelimg打开

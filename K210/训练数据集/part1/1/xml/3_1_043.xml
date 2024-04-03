@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>3_1_043.jpg</filename>
+	<path>E:\Datasets\new_tennis\lyx\images\3_1_043.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tennis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>149</xmin>
+			<ymin>134</ymin>
+			<xmax>171</xmax>
+			<ymax>162</ymax>
+		</bndbox>
+	</object>
+</annotation>
